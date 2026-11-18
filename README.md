@@ -2,6 +2,8 @@
 
 A real-time volumetric fireball in a single HTML file. WebGL 2 and Web Audio, no libraries, no build step, no external assets.
 
+**Size:** the whole thing is one `index.html` of **72.6 KB** (74,326 bytes), about **30 KB** once gzipped over the network. Nothing else is loaded: no scripts, fonts, images or sounds. The video and images in `media/` are only for this README.
+
 **[Live demo](https://aureliengmz.github.io/firebloom/)** · drag to orbit · scroll or pinch to fly into the fire · click for sound
 
 [![Firebloom: click to watch the video](media/ground.jpg)](media/firebloom.mp4)
